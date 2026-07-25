@@ -40,7 +40,7 @@
   <a href="https://www.w3schools.com/sql/" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/SQL-%2300BCF2.svg?style=plastic&logo=microsoftsqlserver&logoColor=white"></a>
 </p>
 
-### Frontend Development
+### Frontend
 
 <p align="center">
   <a href="https://react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"></a>
