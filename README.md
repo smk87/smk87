@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Saqlain Mahmud <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=C8BE25&size=22&center=true&vCenter=true&width=900&height=50&duration=8000&pause=1000&lines=Senior+Frontend+Engineer+@+Hyperbolic+ApS;7%2B+years+building+React+%26+Next.js+apps;Open+to+Full-Time+Remote;Dhaka%2C+Bangladesh;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=C8BE25&size=22&center=true&vCenter=true&width=900&height=50&duration=8000&pause=1000&lines=Senior+Frontend+Engineer+@+Hyperbolic+ApS;Working+professionally+for+7%2B+years+in+the+React+ecosystem;Open+to+Full-Time+Remote;Dhaka%2C+Bangladesh;Always+learning+new+things"></a>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## 👋 About me
 
-- 💼 `Senior Frontend Engineer` with 7+ years building production `React` and `Next.js` applications for distributed remote teams.
+- 💼 `Senior Frontend Engineer` with 7+ years of experience building production React and Next.js applications for distributed remote teams.
 - 🏢 Currently at [**Hyperbolic ApS**](https://www.hyperbolic.dk/en) (remote, Copenhagen) — developing regulated manufacturing solutions.
 - 🌍 Led distributed frontend teams across EMEA and APAC, maintaining 4+ hours daily overlap with CET since 2023.
 - 🚀 Proven at shipping high-impact frontend apps autonomously in remote and async environments.
