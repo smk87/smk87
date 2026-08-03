@@ -101,10 +101,10 @@
 
 **Jan 2025 – Present** · Copenhagen, Denmark
 
-- Delivered core features across multiple production releases while working fully remote with a Danish CDMO platform team supporting regulated manufacturing operations.
-- Led end-to-end migration of the frontend to the latest React and Ant Design versions for production.
+- Delivered core features across 5+ production releases in React while working fully async/remote with a distributed team supporting regulated manufacturing operations.
+- Led end-to-end migration of 100% of the production frontend to the latest React and Ant Design versions, restoring vendor security support and eliminating deprecated dependencies.
 - Built .NET APIs consumed by the React app to power key product workflows across production modules.
-- Cut critical API latency 95% by partnering remotely with backend on database indexing and denormalization, unblocking a core production workflow.
+- Cut critical API latency from 20s to <1s by database indexing and denormalization, unblocking a core production workflow.
 
 </details>
 
@@ -114,8 +114,8 @@
 
 - Led 2 frontend engineers on a process-management app; improved key workflows and reduced list-page memory usage 50% with TanStack Virtual.
 - Owned frontend delivery with product and design across distributed teams, scoping and shipping 10+ features per quarter.
-- Drove cross-team alignment across time zones on requirements, trade-offs, and release planning for a multi-stakeholder enterprise product.
-- Established code review practices and frontend standards to improve consistency and delivery quality across the team.
+- Led cross-functional, global alignment on quarterly requirements for an enterprise app; balanced product, design, and engineering trade-offs to deliver critical workflow features on schedule.
+- Established code review practices and frontend standards for a 3-person team, improving delivery consistency across 10+ feature releases per quarter.
 
 </details>
 
@@ -123,7 +123,7 @@
 
 **Mar 2022 – Jan 2024** · Dhaka, Bangladesh
 
-- Built a scalable social platform for game developers with automated workflows that streamlined team communication.
+- Built a scalable social platform for game developers with automated workflows, reducing manual status-update overhead by consolidating team communication into one platform.
 - Improved SEO with Next.js SSR and image optimization, increasing search rankings 10% and reducing landing-page image sizes 80%.
 - Built a React admin dashboard for an IoT fleet-management startup, enabling real-time device monitoring and reducing manual ops work ~30%.
 - Collaborated asynchronously with a distributed global team across multiple time zones to accelerate feature delivery on a multi-market product.
@@ -136,8 +136,8 @@
 
 - Built a custom calendar-based scheduling and reservation system for a dental clinic, expanding booking capacity 20%.
 - Built REST APIs with Node.js and optimized database queries, reducing server response times 15%.
-- Implemented real-time messaging with Socket.io and push notifications with Pusher.js for patient engagement.
-- Developed responsive UIs across devices for clinic staff and patients, delivering features independently with minimal oversight.
+- Implemented real-time messaging with Socket.io and push notifications with Pusher.js, automating appointment alerts for 100% of patient bookings.
+- Developed responsive UIs for clinic staff and patients, independently owning 100% of frontend delivery with minimal oversight.
 
 </details>
 
