@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Saqlain Mahmud <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=C8BE25&size=22&center=true&vCenter=true&width=900&height=50&duration=8000&pause=1000&lines=Senior+Frontend+Engineer+@+Hyperbolic+ApS;Working+professionally+for+7%2B+years+in+the+React+ecosystem;Open+to+Full-Time+Remote;Dhaka%2C+Bangladesh;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=C8BE25&size=22&center=true&vCenter=true&width=900&height=50&duration=8000&pause=1000&lines=Senior+Frontend+Engineer+%7C+React+Architecture+%26+Performance;Working+professionally+for+7%2B+years+in+the+React+ecosystem;Open+to+Full-Time+Remote;Dhaka%2C+Bangladesh;Always+learning+new+things"></a>
 </p>
 
 <p align="center">
@@ -9,13 +9,12 @@
 
 ## 👋 About me
 
-- 💼 `Senior Frontend Engineer` with 7+ years of experience building production React and Next.js applications for distributed remote teams.
-- 🏢 Currently at [**Hyperbolic ApS**](https://www.hyperbolic.dk/en) (remote, Copenhagen) — developing regulated manufacturing solutions.
-- 🌍 Led distributed frontend teams across EMEA and APAC, maintaining 4+ hours daily overlap with CET since 2023.
-- 🚀 Proven at shipping high-impact frontend apps autonomously in remote and async environments.
-- ⚙️ Hands-on backend experience with `Node.js`, `Express`, `Nest.js`, and `.NET`.
+- 💼 `Senior Frontend Engineer` with 7+ years of experience building production React and Next.js applications, with hands-on backend experience in `Node.js` and `.NET`.
+- 🏢 Currently at [**Hyperbolic ApS**](https://www.hyperbolic.dk/en) (remote, Copenhagen) — developing regulated pharmaceuticals manufacturing solutions.
+- 🌍 Led distributed frontend teams across EMEA and APAC since 2022, maintaining consistent daily overlap and async handoffs to keep delivery uninterrupted across time zones.
+- 🚀 Proven at shipping high-impact frontend apps autonomously in remote and async environments, with measurable performance gains through virtualization, SSR, and image optimization.
 - 🎓 B.Sc. CSE ([MIST](https://www.mist.ac.bd/)), MBA Operations & Project Management ([University of Mysore](https://www.uni-mysore.ac.in/english-version/)).
-- 💭 Open to full-time remote opportunities — see my [portfolio](https://remoteyeah.com/@saqlain), or reach me at `saqlain.mahmud@yahoo.com` or [LinkedIn](https://www.linkedin.com/in/smk87).
+- 💭 Open to full-time remote opportunities — see [more details](https://remoteyeah.com/@saqlain), or reach me at `saqlain.mahmud@yahoo.com` or [LinkedIn](https://www.linkedin.com/in/smk87).
 
 <br>
 
@@ -52,10 +51,12 @@
   <a href="https://mui.com/" target="_blank"><img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-%230070BA.svg?style=plastic&logo=mui&logoColor=white"></a>
   <a href="https://react-hook-form.com/" target="_blank"><img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white"></a>
   <a href="https://tanstack.com/virtual" target="_blank"><img alt="TanStack Virtual" src="https://img.shields.io/badge/TanStack%20Virtual-%23000000.svg?style=plastic&logo=tanstack&logoColor=white"></a>
+  <a href="https://dndkit.com/" target="_blank"><img alt="DnD Kit" src="https://img.shields.io/badge/DnD--Kit-%23000000.svg?style=plastic&logo=react&logoColor=white"></a>
+  <a href="https://styled-components.com/" target="_blank"><img alt="Styled Components" src="https://img.shields.io/badge/Styled--Components-%23DB7093.svg?style=plastic&logo=styledcomponents&logoColor=white"></a>
   <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
   <a href="https://sass-lang.com/" target="_blank"><img alt="SCSS" src="https://img.shields.io/badge/SCSS-%23CC6699.svg?style=plastic&logo=sass&logoColor=white"></a>
-  <a href="https://cssinjs.org/" target="_blank"><img alt="CSS-in-JS" src="https://img.shields.io/badge/CSS--in--JS-%23DB7093.svg?style=plastic&logo=styledcomponents&logoColor=white"></a>
+  <a href="https://eslint.org/" target="_blank"><img alt="ESLint" src="https://img.shields.io/badge/ESLint-%234B32C3.svg?style=plastic&logo=eslint&logoColor=white"></a>
 </p>
 
 ### Testing
@@ -63,6 +64,8 @@
 <p align="center">
   <a href="https://vitest.dev/" target="_blank"><img alt="Vitest" src="https://img.shields.io/badge/Vitest-%236E9F18.svg?style=plastic&logo=vitest&logoColor=white"></a>
   <a href="https://jestjs.io/" target="_blank"><img alt="Jest" src="https://img.shields.io/badge/Jest-%23C21325.svg?style=plastic&logo=jest&logoColor=white"></a>
+  <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank"><img alt="React Testing Library" src="https://img.shields.io/badge/React%20Testing%20Library-%23E33332.svg?style=plastic&logo=testinglibrary&logoColor=white"></a>
+  <a href="https://mswjs.io/" target="_blank"><img alt="MSW" src="https://img.shields.io/badge/MSW-%23FF6A33.svg?style=plastic&logo=mockserviceworker&logoColor=white"></a>
 </p>
 
 ### Backend
@@ -79,11 +82,14 @@
 <p align="center">
   <a href="https://pusher.com/" target="_blank"><img alt="Pusher.js" src="https://img.shields.io/badge/Pusher.js-%233005D9.svg?style=plastic&logo=pusher&logoColor=white"></a>
   <a href="https://socket.io/" target="_blank"><img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=plastic&logo=socketdotio&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSocket" target="_blank"><img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-%23000000.svg?style=plastic&logo=socketdotio&logoColor=white"></a>
 </p>
 
 ### Tools
 
 <p align="center">
+  <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"></a>
+  <a href="https://azure.microsoft.com/en-us/products/devops/pipelines" target="_blank"><img alt="Azure Pipelines" src="https://img.shields.io/badge/Azure%20Pipelines-%230078D4.svg?style=plastic&logo=azuredevops&logoColor=white"></a>
   <a href="https://vitejs.dev/" target="_blank"><img alt="Vite" src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white"></a>
   <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   <a href="https://github.com/smk87" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
@@ -91,6 +97,16 @@
   <a href="https://slack.com/" target="_blank"><img alt="Slack" src="https://img.shields.io/badge/Slack-%234A154B.svg?style=plastic&logo=slack&logoColor=white"></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img alt="Jira" src="https://img.shields.io/badge/Jira-%230052CC.svg?style=plastic&logo=jira&logoColor=white"></a>
   <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"></a>
+</p>
+
+### AI Assisted Development
+
+<p align="center">
+  <a href="https://cursor.com/" target="_blank"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-%23000000.svg?style=plastic&logo=cursor&logoColor=white"></a>
+  <a href="https://github.com/opencode-ai/opencode" target="_blank"><img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-%23000000.svg?style=plastic&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Fission-AI/OpenSpec" target="_blank"><img alt="OpenSpec" src="https://img.shields.io/badge/OpenSpec-%23000000.svg?style=plastic&logo=github&logoColor=white"></a>
+  <a href="https://github.com/bmad-code-org/BMAD-METHOD" target="_blank"><img alt="BMAD" src="https://img.shields.io/badge/BMAD-%23000000.svg?style=plastic&logo=github&logoColor=white"></a>
+  <a href="https://modelcontextprotocol.io/" target="_blank"><img alt="MCP" src="https://img.shields.io/badge/MCP-%23000000.svg?style=plastic&logo=openai&logoColor=white"></a>
 </p>
 
 <br>
@@ -101,10 +117,11 @@
 
 **Jan 2025 – Present** · Copenhagen, Denmark
 
-- Delivered core features across 5+ production releases in React while working fully async/remote with a distributed team supporting regulated manufacturing operations.
+- Delivered core features across 5+ production releases in React while working fully async/remote with a distributed team supporting regulated pharmaceuticals manufacturing operations.
 - Led end-to-end migration of 100% of the production frontend to the latest React and Ant Design versions, restoring vendor security support and eliminating deprecated dependencies.
-- Built .NET APIs consumed by the React app to power key product workflows across production modules.
-- Cut critical API latency from 20s to <1s by database indexing and denormalization, unblocking a core production workflow.
+- Designed and built .NET APIs powering core production workflows across 3+ manufacturing modules, enabling the React frontend to support real-time regulated operations.
+- Cut critical API latency from 20s to <1s through database indexing and denormalization, unblocking a core production workflow.
+- Wrote unit and integration tests with Vitest and React Testing Library across core React modules, catching regressions pre-release and raising test coverage to 60%+.
 
 </details>
 
@@ -114,7 +131,7 @@
 
 - Led 2 frontend engineers on a process-management app; improved key workflows and reduced list-page memory usage 50% with TanStack Virtual.
 - Owned frontend delivery with product and design across distributed teams, scoping and shipping 10+ features per quarter.
-- Led cross-functional, global alignment on quarterly requirements for an enterprise app; balanced product, design, and engineering trade-offs to deliver critical workflow features on schedule.
+- Drove quarterly roadmap alignment across product, design, and engineering for a global enterprise app, delivering 100% of committed workflow features on schedule across 4 consecutive quarters.
 - Established code review practices and frontend standards for a 3-person team, improving delivery consistency across 10+ feature releases per quarter.
 
 </details>
@@ -152,6 +169,7 @@
 
 <details open><summary><h3>Certifications</h3></summary>
 
+- [Frontend Developer (React)](https://www.hackerrank.com/) — HackerRank (Aug 2026)
 - [Introduction to Information Security Basics](https://drive.google.com/file/d/1UIKRH1ZnhB9YtsJtgzryH0coELAH5_my/view?usp=sharing) — Monstarlab (Jun 2022)
 - [React: Design Patterns](https://github.com/smk87/react-design-patterns-2895130) — LinkedIn (May 2022)
 
