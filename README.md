@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Saqlain Mahmud <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=C8BE25&size=22&center=true&vCenter=true&width=900&height=50&duration=8000&pause=1000&lines=Senior+Frontend+Engineer+%7C+React+Architecture+%26+Performance;Working+professionally+for+7%2B+years+in+the+React+ecosystem;Open+to+Full-Time+Remote;Dhaka%2C+Bangladesh;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=C8BE25&size=22&center=true&vCenter=true&width=900&height=50&duration=8000&pause=1000&lines=Senior+Frontend+Engineer+%7C+React+Architecture+%26+Full-stack+Performance;Working+professionally+for+7%2B+years+in+the+React+ecosystem;Open+to+Full-Time+Remote;Dhaka%2C+Bangladesh;Always+learning+new+things"></a>
 </p>
 
 <p align="center">
@@ -176,7 +176,7 @@ Built from scratch an enterprise app that replaced the manual hand-building of v
 
 </details>
 
-<details><summary><h3>Otsuki Dentals: Multi-branch Clinic Scheduler (Japan, Private) · 2019 – 2021</h3></summary>
+<details open><summary><h3>Otsuki Dentals: Multi-branch Clinic Scheduler (Japan, Private) · 2019 – 2021</h3></summary>
 
 Built a centralized booking system for a Japanese dental clinic's branches that prevents scheduling conflicts and automates reminders to reduce no-shows.
 
@@ -184,7 +184,7 @@ Built a centralized booking system for a Japanese dental clinic's branches that 
 
 </details>
 
-<details><summary><h3>Nine66: Social Platform for Game Developers (KSA) · 2022 – 2023</h3></summary>
+<details open><summary><h3>Nine66: Social Platform for Game Developers (KSA) · 2022 – 2023</h3></summary>
 
 Built a social and collaboration platform that lets KSA game developers connect and work together on one platform instead of several tools. Handled Next.js SSR and image optimization for SEO.
 
@@ -192,7 +192,7 @@ Built a social and collaboration platform that lets KSA game developers connect 
 
 </details>
 
-<details><summary><h3>Bhumijo: IoT-Driven Smart Public Toilets (Bangladesh) · 2022</h3></summary>
+<details open><summary><h3>Bhumijo: IoT-Driven Smart Public Toilets (Bangladesh) · 2022</h3></summary>
 
 Built the React admin dashboard that lets a startup monitor and control its smart public toilets in Dhaka in real time, reducing the need for manual inspection rounds.
 
